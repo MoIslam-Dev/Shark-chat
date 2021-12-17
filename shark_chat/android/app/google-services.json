@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "574057341660",
+    "project_id": "shark-chat-ff3a0",
+    "storage_bucket": "shark-chat-ff3a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574057341660:android:a5509d1e3cab7f2bc1ca19",
+        "android_client_info": {
+          "package_name": "com.example.shark_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574057341660-e1lbq1knlff6855cm3rd1698oqodgudb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAslUZ8XsqoezZl9TdgDHy0jwTT2VeYaIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574057341660-e1lbq1knlff6855cm3rd1698oqodgudb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
